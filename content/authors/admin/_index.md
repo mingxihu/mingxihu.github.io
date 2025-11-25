@@ -134,13 +134,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Wheeler Fellowship
-    url: ''
     date: '2021-09-01'
     icon: hero/academic-cap
     summary: |
       Full fellowship support ($68,800).
   - title: Frank E. Kottlowski Memorial Grant
-    url: https://www.aapg.org/
     date: '2023-01-01'
     awarder: AAPG
     icon: hero/trophy
