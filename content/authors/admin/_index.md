@@ -28,7 +28,7 @@ role: Ph.D. Candidate in Geology
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Penn State University
-    url: https://www.psu.edu/
+    url: https://www.geosc.psu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,18 +37,19 @@ profiles:
     url: 'mailto:mph6359@psu.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mingxi-hu-284486183
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=UUPvHhUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
-  - icon: brands/github
-    url: https://github.com/
+    url: https://orcid.org/0000-0002-6788-5961
+
 
 interests:
   - Carbonate Sedimentology
-  - Mixed Carbonate-siliciclastics
+  - HCS and storm deposits
+  - Mixed Carbonate-siliciclastic System
   - LPIA
+
 
 education:
   - area: Ph.D. Geosciences
@@ -57,7 +58,7 @@ education:
     date_start: 2024-09-01
     date_end: ''
     summary: |
-      Research on glacioeustatic vs. climatic controls on mixed carbonate-siliciclastic system architecture. Awarded Wheeler Fellowship.
+      Research on glacioeustatic vs. climatic controls on mixed carbonate-siliciclastic system architecture.
   - area: M.S. Earth Sciences
     institution: Washington University in St. Louis
     icon: ""
@@ -72,7 +73,6 @@ education:
     date_end: 2021-05-31
     summary: |
       Cum Laude with Honor. GPA: 3.9/4.0.
-      Minored in Mathematics.
 
 work:
   - position: Exploration Geologist (Internship)
@@ -83,7 +83,7 @@ work:
     date_end: ''
     summary: |2-
       Interpreting log data and subsurface 2D/3D seismic to identify deltaic prospects in the Gulf of Mexico. Collaborating on risk analysis and economics.
-  - position: Academic Support Associate
+  - position: Paraprofessional in Geology
     company_name: Colorado College
     company_url: ''
     icon: ''
@@ -135,8 +135,7 @@ languages:
 awards:
   - title: Wheeler Fellowship
     url: ''
-    date: '2024-09-01'
-    awarder: Penn State University
+    date: '2021-09-01'
     icon: hero/academic-cap
     summary: |
       Full fellowship support ($68,800).
@@ -148,8 +147,7 @@ awards:
     summary: |
       Research grant support.
   - title: Neal J. Harr Award
-    url: https://www.rmag.org/
-    date: '2023-01-01'
+    date: '2017'
     awarder: RMAG
     icon: hero/star
     summary: |
@@ -158,4 +156,4 @@ awards:
 
 Mingxi Hu is a Ph.D. Candidate in Geology at The Pennsylvania State University. His research integrates core- to outcrop-scale sedimentology, stratigraphy, and geochemistry to resolve depositional heterogeneity and basin evolution. Specifically, he investigates glacioeustatic versus climatic controls on mixed carbonate-siliciclastic system architecture using stratigraphy, stable isotopes, and forward modeling.
 
-Prior to joining Penn State, Mingxi received his M.S. in Earth Sciences from Washington University in St. Louis and a B.A. in Geology (Cum Laude) from Colorado College. His expertise encompasses reservoir characterization, sequence stratigraphy, and isotope geochemistry, with additional industry experience in prospect risk assessment and seismic interpretation through the SEG EVOLVE program.
+Prior to joining Penn State, Mingxi received his M.S. in Earth Sciences from Washington University in St. Louis and a B.A. in Geology from Colorado College, with additional industry experience in prospect risk assessment and seismic interpretation through the SEG EVOLVE program.
