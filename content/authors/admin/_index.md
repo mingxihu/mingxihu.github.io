@@ -147,7 +147,7 @@ awards:
     summary: |
       Research grant support.
   - title: Neal J. Harr Award
-    date: '2017'
+    date: '2017-05-30'
     awarder: RMAG
     icon: hero/star
     summary: |
