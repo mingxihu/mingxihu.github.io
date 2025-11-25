@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Mingxi Hu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Mingxi
+last_name: Hu
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ⚒️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,150 +23,139 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. Candidate in Geology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Penn State University
+    url: https://www.psu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:mph6359@psu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/
+  - icon: brands/github
+    url: https://github.com/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Carbonate Sedimentology
+  - Mixed Carbonate-siliciclastics
+  - LPIA
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. Geosciences
+    institution: The Pennsylvania State University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-09-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Research on glacioeustatic vs. climatic controls on mixed carbonate-siliciclastic system architecture. Awarded Wheeler Fellowship.
+  - area: M.S. Earth Sciences
+    institution: Washington University in St. Louis
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2021-09-01
+    date_end: 2023-05-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Thesis: Lateral & secular variability in δ13C, δ34S from Late Ordovician GICE interval.
+  - area: B.A. Geology
+    institution: Colorado College
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2017-09-01
+    date_end: 2021-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Cum Laude with Honor. GPA: 3.9/4.0.
+      Minored in Mathematics.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Exploration Geologist (Internship)
+    company_name: SEG EVOLVE
+    company_url: ''
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Interpreting log data and subsurface 2D/3D seismic to identify deltaic prospects in the Gulf of Mexico. Collaborating on risk analysis and economics.
+  - position: Academic Support Associate
+    company_name: Colorado College
+    company_url: ''
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2023-08-01
+    date_end: 2024-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Co-instructed sedimentology, structural geology, and geochemistry courses. Supervised field trip logistics and renovated lab systems.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: Sedimentology & Stratigraphy
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: map
+      - name: Isotope Geochemistry
+        description: ''
+        percent: 90
+        icon: beaker
+      - name: Petrel, Techlog & Python
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: code-bracket
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: English
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 100
+        icon: language
+      - name: Chinese
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        percent: 100
+        icon: chat-bubble-left-ellipsis
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: Wheeler Fellowship
+    url: ''
+    date: '2024-09-01'
+    awarder: Penn State University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Full fellowship support ($68,800).
+  - title: Frank E. Kottlowski Memorial Grant
+    url: https://www.aapg.org/
+    date: '2023-01-01'
+    awarder: AAPG
+    icon: hero/trophy
+    summary: |
+      Research grant support.
+  - title: Neal J. Harr Award
+    url: https://www.rmag.org/
+    date: '2023-01-01'
+    awarder: RMAG
+    icon: hero/star
+    summary: |
+      Recognition for excellence in sedimentary geology.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Mingxi Hu is a Ph.D. Candidate in Geology at The Pennsylvania State University. His research integrates core- to outcrop-scale sedimentology, stratigraphy, and geochemistry to resolve depositional heterogeneity and basin evolution. Specifically, he investigates glacioeustatic versus climatic controls on mixed carbonate-siliciclastic system architecture using stratigraphy, stable isotopes, and forward modeling.
+
+Prior to joining Penn State, Mingxi received his M.S. in Earth Sciences from Washington University in St. Louis and a B.A. in Geology (Cum Laude) from Colorado College. His expertise encompasses reservoir characterization, sequence stratigraphy, and isotope geochemistry, with additional industry experience in prospect risk assessment and seismic interpretation through the SEG EVOLVE program.
